@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <style>
+    body {
+      font-size: 18px;
+    }
+
+    .content {
+      padding-top: 20px;
+      padding-right: 150px;
+    }
+    @media screen and (max-width: 1250px) {
+      .content {
+        padding-right: 0;
+      }
+    }
+
+    .markdown-section {
+      padding: 30px 30px 40px;
+      width: 700px;
+      max-width: 100%;
+    }
+    .markdown-section h1 {
+      font-size: 3.3rem;
+      margin-bottom: 0;
+    }
+    .markdown-section h2 {
+      margin-top: 50px;
+      font-size: 2.2rem;
+      padding-top: 30px;
+    }
+    .markdown-section h3 {
+      padding-top: 30px;
+      margin-top: 15px;
+    }
+    .markdown-section img {
+      display: block;
+      border-radius: 7px;
+      max-width: 100%;
+      height: auto;
+      margin: 15px auto;
+    }
+    .markdown-section em {
+      display: block;
+      text-align: center;
+    }
+
+    .sidebar {
+      padding-top: 60px;
+    }
+
+    .sidebar-toggle {
+      position: fixed;
+      top: 0;
+      left: 0;
+      padding: 15px!important;
+      height: 45px;
+      width: 46px;
+      background: rgba(255, 255, 255, 0.9);
+    }
+    .sidebar-toggle:hover .sidebar-toggle-button {
+      opacity: 1;
+    }
+
+    .sidebar>h1 {
+      text-align: left;
+      display: block;
+      padding-left: 15px;
+      margin-bottom: 30px;
+    }
+    .sidebar>h1 a {
+      display: block;
+      font-weight: 700;
+      text-align-last: left;
+    }
+    .sidebar .sidebar-nav>ul>li>a {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .sidebar ul li ul li {
+      margin: 4px 0;
+    }
+    .sidebar ul li ul li a {
+      font-size: 16px;
+    }
+    .sidebar ul li ul li ul li a {
+      font-size: 14px;
+    }
+    @media screen and (max-width: 600px) {
+      .markdown-section {
+        padding: 30px 15px 40px;
+      }
+      .markdown-section h1 {
+        font-size: 2.5rem;
+      }
+      .markdown-section h2 {
+        margin-top: 30px;
+        font-size: 2rem;
+      }
+      .markdown-section h3 {
+        padding-top: 20px;
+      }
+    }
+  </style>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Тактика, Технології і Процедури для Arma 3',
+      repo: 'https://github.com/YegorShtonda/arma3-ukraine-ttp3',
+      loadSidebar: true,
+      auto2top: true,
+      coverpage: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>

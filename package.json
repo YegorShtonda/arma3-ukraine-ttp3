@@ -1,0 +1,23 @@
+{
+  "name": "arma3-urkaine-ttp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "docsify init ./docs",
+    "serve": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YegorShtonda/arma3-ukraine-ttp3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YegorShtonda/arma3-ukraine-ttp3/issues"
+  },
+  "homepage": "https://github.com/YegorShtonda/arma3-ukraine-ttp3#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.2"
+  }
+}
