@@ -2,25 +2,25 @@
 
 ## Ласкаво просимо!
 
-Welcome to the Arma 3 "Tactics, Techniques, and Procedures Guide" (TTP3), developed for [Shack Tactical](http://www.shacktac.com/) and published in cooperation with Bohemia Interactive. I'd like to take a few minutes to talk about this guide, how it came to be, what's different between it and my prior guides for the Arma series, as well as all sorts of other preamble topics. Please bear with me for a bit - I believe that there are some important things to convey before we dive into the heart of the guide.
+Ласкаво просимо до Arma 3 **"Посібника з Тактики, Технологій і Процедур (Tactics, Techniques, and Procedures Guide)"**, розроблений для [Shack Tactical](http://www.shacktac.com/), перекладений українською для [ArmA 3 Ukraine](https://discord.gg/CfuqprQw) і опублікований в співпраці з [Bohemia Interactive](https://www.bohemia.net). Я хотів би спершу поговорити про цей посібник, про те, як він з’явився, що відрізняється між ним та моїми попередніми посібниками для серії ігор Arma, а також про всілякі інші теми преамбули. Я вважаю, що є кілька важливих речей, які потрібно розповісти, перш ніж ми зануримось у посібник.
 
 ![img1](_images/intro/1.jpg)
 
-### Intent
+### Намір
 
-Greetings! My name is Andrew Gluck, though you most likely know me by my online nick of Dslyecxi. I am the founder of the Arma community Shack Tactical, a community which has acted as the inspiration for this guide and each prior guide in the series. Over the course of our nearly eight years of existence (ed: 14+ as of 2020), Shack Tactical - commonly shortened to just 'ShackTac' - has attempted to answer the question of how best to approach Arma and how best to harness the potential inherent in the series. Since the original Operation Flashpoint in 2001, this series has stood out as an incredibly deep and rewarding simulation, one deserving of the time we've collectively poured into learning, refining, and enjoying.
+Вітаю! Мене звуть Ендрю Глюк (Andrew Gluck), хоча ви, швидше за все, знаєте мене по моєму інтернет-ніку Dslyecxi. Я засновник спільноти Arma Shack Tactical, спільноти, яка послужила натхненням для цього керівництва та кожного попереднього керівництва у серії. Протягом наших майже восьми років існування (станом на 2020 рік) Shack Tactical (скорочено ShackTac) - намагалась відповісти на питання, як найкраще підійти до гри і як сповна використати можливості Arma. З часу першої операції Flashpoint в далекому 2001 році ця серія ігор виділялася неймовірно глибокою симуляцією, яка заслуговує часу і зусиль, які ми колективно витратили на навчання, вдосконалення та насолоду.
 
-My tactical guides have been created with the intention of spreading this knowledge beyond the confines of ShackTac, with the hope that the lessons we've learned and the doctrine we've created for ourselves will help to bring better gameplay experiences to anyone else operating in the environments of Arma. Having our guides - which we refer to simply as "the TTP" - has allowed us to acquire a community-wide understanding of military operations within Arma, regardless of whether any given participant had a military background. This has given us fantastic gaming experiences for many years, and it's my hope that this third iteration of our TTPs will help to spread this potential to a broad new Arma 3 playerbase.
+Мої тактичні посібники створені з метою розповсюдження знань за межі ShackTac, з надією, що випрацювані нами уроки та доктрина, яку ми створили для себе, допоможуть покращити досвід гри усім, хто грає в Arma. Наявність наших путівників - які ми просто називаємо "TTP" - дозволило нам набути загального розуміння військових операцій в Arma, незалежно від того, чи був у когось із учасників військовий досвід. Завдяки цьому ми отримали фантастичний ігровий досвід протягом багатьох років, і я сподіваюся, що третя ітерація наших TTP допоможе поширити цей досвід на ще ширше коло гравців Arma 3.
 
-You'll note that unlike my prior guides, TTP3 is an official product of Bohemia Interactive, available as part of the Arma 3 Deluxe Edition as well as in print and e-book formats. In addition to those formats, I'd like to thank them for graciously agreeing to allow me to offer a web version of the core of the guide - some 130,000 words - for free. The information contained herein is something every Arma player should have access to free of charge - not locked away in our private forums or as a pay-only product. It is truly commendable, and I thank them for supporting the vision!
+Ви можете зауважити, що на відміну від моїх попередніх посібників, TTP3 є офіційним продуктом Bohemia Interactive, доступним як частина Arma 3 Deluxe Edition, а також у форматі друкованих та електронних книг. На додаток до цього, я хотів би подякувати їм за люб'язну згоду дозволити мені розмістити веб-версію ядра керівництва - близько 130 000 слів - безкоштовно. Інформація, що знаходиться в цьому документі, - це те, до чого кожен гравець Arma повинен мати доступ - вона не має бути захована на наших приватних форумах або бути платним продуктом. І це справді похвально, я дякую їм за підтримку мого бачення!
 
-This guide is available for all who have the time to read it - it is offered up warmly, with the hope that everyone can take something from it in some capacity. A strong Arma community benefits us all, and if this guide helps facilitate that in any capacity, I will consider it to be a great success!
+Цей посібник доступний для всіх, хто має час його прочитати, з надією, що кожен може щось взяти з нього. Сильна спільнота Arma приносить нам усім користь, і якщо цей посібник сприятиме цьому будь-яким чином, я вважатиму це великим успіхом!
 
-As always, note that this guide is not "the only way to do it". It is, however, the way that ShackTac does things, and it works exceptionally well for us. Hopefully you can find a use for this guide in your gaming as well!
+Звісно, цей не єдиний спосіб. Однак ShackTac надзвичайно добре працює для нас. Сподіваємось, ви також зможете використати це керівництво у своїх іграх!
 
 ![img2](_images/intro/2.jpg)
 
-### What's New & Different
+### Що змінилось?
 
 With Arma 3, we see the series further enhanced and refined - with a particular focus on the infantry aspects of it. These changes in game mechanics, technology, and other aspect of the simulation environment were the inspiration to take the existing second iteration of my TTP guide, update it, integrate the lessons we collectively learned in Arma 2 and Operation Arrowhead, and both refine and expand the content to cover Arma 3's possibilities as well.
 
