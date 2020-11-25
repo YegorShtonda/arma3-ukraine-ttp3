@@ -2,17 +2,17 @@
 
 ## Ласкаво просимо!
 
-Ласкаво просимо до Arma 3 **"Посібника з Тактики, Технологій і Процедур (Tactics, Techniques, and Procedures Guide)"**, що розроблений для [Shack Tactical](http://www.shacktac.com/), перекладений українською для [ArmA 3 Ukraine](https://discord.gg/CfuqprQw) і опублікований в співпраці з [Bohemia Interactive](https://www.bohemia.net). Я хотів би спершу поговорити про цей посібник, про те, як він з’явився, яка різниця між ним та моїми попередніми посібниками для серії ігор Arma, а також про всілякі інші теми преамбули. Я вважаю, що є кілька важливих речей, які потрібно розповісти, перш ніж ми зануримось.
+Ласкаво просимо до Arma 3 **"Посібника з Тактики, Технологій і Процедур (Tactics, Techniques, and Procedures Guide)"**, що розроблений для [Shack Tactical](http://www.shacktac.com/), перекладений українською для [ArmA 3 Ukraine](https://discord.gg/CfuqprQw) і опублікований в співпраці з [Bohemia Interactive](https://www.bohemia.net). Я хотів би спершу поговорити про цей посібник, про те, як він з’явився, яка різниця між ним та його попередниками, а також про всілякі інші теми преамбули. Я вважаю, що є кілька важливих речей, які потрібно розповісти, перш ніж ми почнемо.
 
 ![img1](_images/intro/1.jpg)
 
 ### Намір
 
-Вітаю! Мене звуть Ендрю Глюк (Andrew Gluck), хоча ви, швидше за все, знаєте мене по моєму інтернет-ніку Dslyecxi. Я засновник спільноти Arma Shack Tactical, спільноти, яка послужила натхненням для цього керівництва та кожного попереднього керівництва у серії. Протягом наших майже восьми років існування (станом на 2020 рік) Shack Tactical (скорочено ShackTac) - намагалась відповісти на питання, як найкраще підійти до гри і як сповна використати можливості Arma. З часу першої операції Flashpoint в далекому 2001 році ця серія ігор виділялася неймовірно глибокою симуляцією, яка заслуговує часу і зусиль колективно витрачених на навчання, вдосконалення та насолоду.
+Вітаю! Мене звуть Ендрю Глюк (Andrew Gluck), хоча ви, швидше за все, знаєте мене по моєму інтернет-ніку Dslyecxi. Я засновник спільноти Arma Shack Tactical, спільноти, яка послужила натхненням для цього посібника та кожного попереднього посібника у серії. Протягом наших майже восьми років існування (станом на 2020 рік) Shack Tactical (скорочено ShackTac) - намагалась відповісти на питання, як найкраще підійти до гри та як сповна використати її можливості. З часу першої операції Flashpoint в далекому 2001 році ця серія ігор виділялася неймовірно глибокою симуляцією, яка заслуговує часу і зусиль колективно витрачених на навчання, вдосконалення та насолоду.
 
-Мої тактичні посібники створені з метою розповсюдження знань за межі ShackTac, з надією, що випрацювані нами уроки та доктрина, яку ми створили для себе, допоможуть покращити досвід гри усім хто грає в Arma. Наявність наших путівників - які ми просто називаємо "TTP" - дозволило нам отримати загальне розуміння військових операцій в Arma, незалежно від того, чи був у когось із учасників військовий досвід. Завдяки цьому ми отримували фантастичний ігровий досвід протягом багатьох років, і я сподіваюся, що третя ітерація наших TTP допоможе поширити цей досвід на ще ширше коло гравців Arma 3.
+Мої тактичні посібники створені з метою розповсюдження знань за межі ShackTac, з надією, що випрацювані нами уроки та доктрина, яку ми створили для себе, допоможуть покращити досвід гри усім хто грає в Arma. Наявність наших посібників - які ми просто називаємо "TTP" - дозволило нам отримати загальне розуміння військових операцій в Arma, незалежно від того, чи був у когось із учасників військовий досвід. Завдяки цьому ми отримували фантастичний ігровий досвід протягом багатьох років, і я сподіваюся, що третя ітерація наших TTP допоможе поширити цей досвід на ще ширше коло гравців Arma 3.
 
-Ви можете зауважити, що на відміну від моїх попередніх посібників, TTP3 є офіційним продуктом Bohemia Interactive, доступним як частина Arma 3 Deluxe Edition, а також у форматі друкованих та електронних книг. На додаток до цього, я хотів би подякувати їм за дозвіл розмістити веб-версію ядра керівництва - близько 130 000 слів - безкоштовно. Інформація, що знаходиться тут, - це те, до чого кожен гравець Arma повинен мати доступ - вона не має бути захована на наших приватних форумах або бути платним продуктом. Дуже дякую їм за підтримку мого бачення!
+Ви можете зауважити, що на відміну від моїх попередніх посібників, TTP3 є офіційним продуктом Bohemia Interactive, доступним як частина Arma 3 Deluxe Edition, а також у форматі друкованих та електронних книг. На додаток до цього, я хотів би подякувати їм за дозвіл розмістити веб-версію ядра посібника - близько 130 000 слів - безкоштовно. Інформація, що знаходиться тут, - це те, до чого кожен гравець Arma повинен мати доступ - вона не має бути захована на наших приватних форумах або бути платним продуктом. Дуже дякую їм за підтримку мого бачення!
 
 Цей посібник доступний для всіх, хто має час його прочитати, з надією, що кожен може щось взяти з нього. Сильна спільнота Arma приносить нам усім користь, і якщо цей посібник сприятиме цьому будь-яким чином, я вважатиму це великим успіхом!
 
@@ -20,9 +20,9 @@
 
 ### Що змінилось?
 
-В Arma 3 ми побачили бачато вдосконалень - особливо в піхотних аспектах. Ці зміни в ігровій механіці, технологіях та інших аспектах середовища надихнули взяти існуючу другу ітерацію мого керівництва TTP, оновити її, інтегрувати уроки з Arma 2 та Operation Arrowhead, і вдосконалити та розширити вміст, який також охоплює можливості Arma 3.
+В Arma 3 ми побачили бачато вдосконалень - особливо в піхотних аспектах. Ці зміни в ігровій механіці, технологіях та середовищі надихнули взяти існуючу другу ітерацію мого посібника TTP, оновити її, та інтегрувати уроки з Arma 2 і Operation Arrowhead, вдосконаливши та розширивши вміст, який також охоплює можливості Arma 3.
 
-З моменту виходу Arma 2 у 2009 році, ShackTac отримала більше чотирьох років ігрового досвіду. Впродовж цього часу ми спостерігали значні зміни в грі - від випуску операції Arrowhead до різноманітних модифікацій, що суттєво змінили гру, наприклад [Advanced Combat Radio Environment (ACRE)] (https://steamcommunity.com/sharedfiles/filedetails/?id = 751965892) mod. І відповідно до нововведень адаптували наші власні методи.
+З моменту виходу Arma 2 у 2009 році, ShackTac отримала більше чотирьох років ігрового досвіду. Впродовж цього часу ми спостерігали значні зміни в грі - від випуску операції Arrowhead до різноманітних модифікацій, що суттєво змінили гру, наприклад [Advanced Combat Radio Environment (ACRE)](https://steamcommunity.com/sharedfiles/filedetails/?id=751965892) mod. І адаптували наші методи до нововведень.
 
 Якщо ви знайомі з моїм попереднім керівництвом, ви, без сумніву, знайдете тут багато знайомого, оновленого до стандартів Arma 3 та вдосконаленого. Однією з найбільших змін є реорганізація структури нашої групи. У 2009 році ми були взводом - після 2013 роцу ми знаходимось на рівні роти. Наші піхотні взводи були перероблені, у нашого командира роти з'явились нові обов'язки, а також змінилось те як діють наші командири взводів і як працює наша артилерія.
 
@@ -34,31 +34,25 @@
 
 ## Реалістичність проти гри 
 
-### Milsim & pitfalls
+### Військсим і підводні камені
 
-As before, the point of this guide is to convey material that truly is relevant to Shack Tactical's style of realism-combined-with-fun combat simulation. This is the sort of information that our players use every session to work as a well-oiled and diverse team. We have maintained a very pragmatic outlook on military simulation (milsim) and have taken every measure possible to avoid doing things "because the real military does them" and thus becoming what we call "hardcore milsim".
+Як і раніше, суть цього посібника полягає у передачі матеріалів актуальних для стилю гри Shack Tactical - поєднання реалізму без втрати веселощів гри. Це інформація, якою наші гравці послуговуються на кожному занятті, щоб працювати як добре злагоджена команда. Ми дотримуємось дуже прагматичного світогляду щодо військової симуляції (скорочено військсим) і вживаємо всіх можливих заходів, щоб уникнути непотрібних дій, не стаємо тим, що ми називаємо "суворий військсим".
 
-In our eyes, hardcore milsim is chock-full of "tactical fluff" that is irrelevant to the games at hand. This hardcore milsim typically presents itself though excessive rules, regulations, attempted recreations of full military rank structures far beyond what is relevant in the scope of your average Arma mission, doing things "because the real military does them" regardless of their actual application to the game at hand, and other things that we believe do not have a place in these games.
+Суворий військсим переповнений "тактичним пухом". Він, як правило, включає надмірні правила, норми, спроби відтворення повноцінних військових структур, робляться зайві дії, лише тому що справжні військові це роблять незалежно від їх фактичного застосування. Це не актуально для середньостатистичних місій в Arma і на нашу думку цьому немає місця в іграх.
 
-This guide reflects that mindset as well. One thing that I noticed back before doing my first guide was that military-game guides commonly fell victim to two pitfalls - the first being the recitation of actual military publications, without any attempt to separate the wheat (info relevant to gaming) from the chaff (military or real-world procedures that are irrelevant or not simulated in games). Now, don't get me wrong - there are many things that can be learned from military publications and field manuals, and this guide benefits heavily from being referenced against a number of such manuals. However, this is not a recitation of them word-for-word, as that would be pointless. The information presented here is what is truly relevant to the game, as we have experienced through our years of gaming.
+Перед тим, як зробити свій перший посібник, я помітив що військові ігрові посібники зазвичай ставали жертвами двох підводних каменів - перший - це копіювання власне військових публікацій, без жодної спроби відокремити зерна (інформацію, що стосується ігор) від полови (військових або реальних процедур, які не мають значення або не симулюються в іграх). Не зрозумійте мене неправильно - можна дізнатися багато речей із військових видань та польових посібників, і цей посібник отримав велику користь від посиланнь на ряд таких видань. Однак, це не декламація їх від слова до слова, оскільки це було би безглуздо.
 
 ![img4](_images/intro/4.jpg)
 
-Another thing that must be kept in mind is that the kind of missions most commonly found in games like Arma - in the real world - require a massive amount of planning and preparation by well-trained professional military personnel well before the first shot is ever fired. The goal of groups like ShackTac is to be able to play to the best of our ability without requiring such huge time-sinks in the pre-mission planning. Basically, we want to get the best results we can without having to spend hours in advance planning out each operation. Planning is great, but we strive to keep the initial planning short and sweet - minutes at most - and further develop our plans as we carry out the mission. After all, as the saying goes: "No plan survives first contact".
+Інша річ, про яку слід пам’ятати, полягає в тому, що типи місій, які найчастіше зустрічаються в таких іграх, як Arma, - у реальному світі вимагають величезного часу на планування та підготовку добре підготовленими професійними військовими ще задовго до першого пострілу. А метою таких груп, як ShackTac, є можливість грати якнайкраще не витрачаючи багато часу на планування перед місією. Ми хочемо отримати найкращі результати, не витрачаючи годин перед кожною операцією. Планування - це чудово, але ми прагнемо, щоб первісне планування було коротким і приємним - максимум кілька хвилин - а далі розвиваємо наші плани по ходу операції. Зрештою, як говориться: "Жоден план не переживає першого контакту".
 
-The second pitfall is that of being "gamey". "Gamey" guides are those that are oriented around giving very precise info about things in a fashion that takes advantage of knowledge that would not exist in reality - for example, a list of tanks, their armor values, and the precise 'damage' values of anti-tank weapons. These "gamey" guides also tend to give tactics that are meant to exploit the game itself. I don't believe in those types of guides, so if that is what you're fond of, my apologies - you won't find it here.
+Другий підводний камінь - це те, щоб бути «ігровим». "Ігрові" посібники - це ті, які орієнтовані на надання дуже точної інформації, для використання переваги знань, яких не було би насправді. Наприклад, список танків, їх значення броні та точні значення шкоди протитанкової зброї. Ці "ігрові" керівництва також мають тенденцію давати тактику, яка призначена для використання слабкостей самої гри. Я не вірю в такі типи посібників, тож якщо це те, що вам подобається, прошу вибачення - ви його тут не знайдете.
 
 ![img5](_images/intro/5.jpg)
 
-### Fun is the Ultimate goal
+### Веселощі понад усе
 
-Finally, it is worth reiterating that we are playing games here. The point is to have fun - in our case, we strive for organized, disciplined fun. We are not trying to pretend that we're in the military - many of us have already been there, done that, or are still there and doing that. We're in ShackTac and playing Arma to have a good time. We're a community of friends, ultimately, and this guide is written in that spirit.
-
-### A Technical Note
-
-The online version of this guide was developed with [Google Chrome](https://www.google.com/intl/en/chrome/browser/) and likely looks the best in it.
-
-With that out of the way - best of luck to all of you as you delve into both this guide and Arma 3 itself!
+Варто повторити, що ми тут граємо в ігри. Сенс у тому, щоб розважитись - у нашому випадку ми прагнемо до організованих та дисциплінованих розваг. Ми не намагаємося робити вигляд, що ми в армії. Ми в ShackTac і граємо в Arma, щоб добре провести час.
 
 ## Intro to Arma 3
 
